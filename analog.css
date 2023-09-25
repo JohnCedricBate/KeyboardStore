@@ -10,7 +10,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     weight:150px;
-    height:100px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
 }
 #page{
     max-width: 940px;
